@@ -1,8 +1,14 @@
+# Danger Shroom
+
+A web application that lists some popular dangerous mushrooms found in Australia. Build in roughly 24 hours with React for fun's sake. Do note that information listed in this application is compiled by an amateur, and should not be used as a guide in any way. All image and information resources are referenced as links in the application. If you find anything missing, feel free to let me know :).
+
+# From React
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the `mushroom` directory, you can run:
 
 ### `npm start`
 

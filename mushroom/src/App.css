@@ -1,22 +1,162 @@
+@import url('https://fonts.googleapis.com/css?family=Mansalva|Nanum+Pen+Script&display=swap');
+
+* {
+  font-family: 'Nanum Pen Script', cursive;
+}
+
 .App {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
+h1 {
+  font-family: 'Mansalva', cursive;
+  margin: 10px 20px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+p {
+  font-size: 18px;
+  margin: 10px 20px;
+}
+
+.cardContainer {
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  flex-wrap: wrap;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  margin-top: 25px;
 }
 
-.App-link {
-  color: #09d3ac;
+.photoCard {
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+  float: left;
+  padding: 12px;
+  position: relative;
+  top: 0px;
+  margin: 10px;
+  transition: top 0.2s;
+}
+
+.photoCard:hover {
+  position: relative;
+  top: -5px;
+  box-shadow: 2px 5px 8px rgba(0,0,0,0.3);
+  transition: top 0.2s;
+}
+
+.photoCard h4 {
+  font-size: 18px;
+  line-height: 20px;
+  margin: 0;
+  font-weight: normal;
+}
+
+.photo {
+  max-width: 200px;
+  max-height: 200px;
+  margin-bottom: 5px;
+}
+
+.photoRef {
+  position: absolute;
+  bottom: 65px;
+  right: 20px;
+  font-size: 16px;
+  line-height: 12px;
+  color: rgba(255,255,255,0.6);
+  text-decoration: none;
+}
+
+.darken {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: rgba(0,0,0,0.5);
+  width: 100%;
+  height: 100%;
+  z-index: 98;
+}
+
+.detailCard {
+  text-align: left;
+  width: 600px;
+  box-shadow: 2px 5px 10px rgba(0,0,0,0.7);
+  overflow: hidden;
+  position: fixed;
+  top: 50%;
+  left: calc(50% - 300px);
+  transform: translateY(-50%);
+  z-index: 99;
+  background-color: white;
+}
+
+.detailCard .photo {
+  float: left;
+  margin: 20px;
+  border: 10px solid white;
+  box-sizing: border-box;
+  box-shadow: 2px 3px 5px rgba(0,0,0,0.2);
+}
+
+.left {
+  float: left;
+  width: 240px;
+}
+
+.left h3 {
+  margin-left: 20px;
+  margin-top: 0;
+}
+
+.left ul {
+  width: calc(100% - 40px);
+  list-style: none;
+  margin: 0px 0 15px 20px;
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 18px;
+}
+
+.left li {
+  margin-right: 20px;
+}
+
+.right p {
+  margin-left: 0;
+  line-height: 18px;
+  font-size: 18px;
+}
+
+.right {
+  float: right;
+  width: 340px;
+  margin: 20px 20px 20px 0px;
+  overflow: hidden;
+}
+
+.right h2 {
+  margin: 0;
+  font-weight: normal;
+  float: left;
+  width: calc(100% - 30px);
+}
+
+.right button{
+  float: right;
+  margin: 0;
+  font-size: 24px;
+  height: 24px;
+  background: none;
+  border: 0;
+}
+
+h3 {
+  margin: 20px 0 5px 0;
+}
+
+.right ul {
+  margin-top: 5px;
+  margin-bottom: 20px;
+  list-style-position: outside;
+  padding-left: 20px;
+  font-size: 18px;
 }
