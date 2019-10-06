@@ -2,7 +2,19 @@
 
 A web application that lists some popular dangerous mushrooms found in Australia. Build in roughly 24 hours with React for fun's sake. Do note that information listed in this application is compiled by an amateur, and should not be used as a guide in any way. All image and information resources are referenced as links in the application. If you find anything missing, feel free to let me know :).
 
-# From React
+## Installation
+
+Node.js is required to run this project.
+
+1. Clone or download this project
+2. Navigate to the `mushroom` directory inside the root project folder
+3. run npm install
+
+## How to run
+
+1. In the `mushroom` directory, run `npm start` to run the app in development mode. More commands are available in the next section below:
+
+# React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
