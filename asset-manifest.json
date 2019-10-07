@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/katherinesutarlim/poisonous-mushrooms/static/css/main.9c84ef25.chunk.css",
+    "main.js": "/katherinesutarlim/poisonous-mushrooms/static/js/main.e08f14be.chunk.js",
+    "main.js.map": "/katherinesutarlim/poisonous-mushrooms/static/js/main.e08f14be.chunk.js.map",
+    "runtime-main.js": "/katherinesutarlim/poisonous-mushrooms/static/js/runtime-main.4b5bf294.js",
+    "runtime-main.js.map": "/katherinesutarlim/poisonous-mushrooms/static/js/runtime-main.4b5bf294.js.map",
+    "static/js/2.8659fe71.chunk.js": "/katherinesutarlim/poisonous-mushrooms/static/js/2.8659fe71.chunk.js",
+    "static/js/2.8659fe71.chunk.js.map": "/katherinesutarlim/poisonous-mushrooms/static/js/2.8659fe71.chunk.js.map",
+    "index.html": "/katherinesutarlim/poisonous-mushrooms/index.html",
+    "precache-manifest.c04866e04265582b0821e8935bd4d809.js": "/katherinesutarlim/poisonous-mushrooms/precache-manifest.c04866e04265582b0821e8935bd4d809.js",
+    "service-worker.js": "/katherinesutarlim/poisonous-mushrooms/service-worker.js",
+    "static/css/main.9c84ef25.chunk.css.map": "/katherinesutarlim/poisonous-mushrooms/static/css/main.9c84ef25.chunk.css.map",
+    "static/media/agaricus_xanthodermus.jpg": "/katherinesutarlim/poisonous-mushrooms/static/media/agaricus_xanthodermus.f57e5613.jpg",
+    "static/media/amanita_muscaria.jpg": "/katherinesutarlim/poisonous-mushrooms/static/media/amanita_muscaria.f67b5e4a.jpg",
+    "static/media/amanita_phalloides.jpg": "/katherinesutarlim/poisonous-mushrooms/static/media/amanita_phalloides.9295b501.jpg",
+    "static/media/chlorophyllum_brunneum.jpg": "/katherinesutarlim/poisonous-mushrooms/static/media/chlorophyllum_brunneum.028583f7.jpg",
+    "static/media/chlorophyllum_molybdites.jpg": "/katherinesutarlim/poisonous-mushrooms/static/media/chlorophyllum_molybdites.bd650773.jpg",
+    "static/media/galerina_marginata.jpg": "/katherinesutarlim/poisonous-mushrooms/static/media/galerina_marginata.288e35e0.jpg",
+    "static/media/gyromitra_esculenta.jpg": "/katherinesutarlim/poisonous-mushrooms/static/media/gyromitra_esculenta.9fadea93.jpg",
+    "static/media/hebeloma_crustuliniforme.jpg": "/katherinesutarlim/poisonous-mushrooms/static/media/hebeloma_crustuliniforme.c61d7a31.jpg",
+    "static/media/omphalotus_nidiformis.jpg": "/katherinesutarlim/poisonous-mushrooms/static/media/omphalotus_nidiformis.5f5a0f76.jpg",
+    "static/media/paxillus_involutus.jpg": "/katherinesutarlim/poisonous-mushrooms/static/media/paxillus_involutus.d814b43f.jpg",
+    "static/media/podostroma_cornu-damae.jpg": "/katherinesutarlim/poisonous-mushrooms/static/media/podostroma_cornu-damae.fd482a06.jpg",
+    "static/media/psilocybe_subaeruginosa.jpg": "/katherinesutarlim/poisonous-mushrooms/static/media/psilocybe_subaeruginosa.d8485c55.jpg",
+    "static/media/scleroderma.jpg": "/katherinesutarlim/poisonous-mushrooms/static/media/scleroderma.21569a65.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b5bf294.js",
+    "static/js/2.8659fe71.chunk.js",
+    "static/css/main.9c84ef25.chunk.css",
+    "static/js/main.e08f14be.chunk.js"
+  ]
+}
