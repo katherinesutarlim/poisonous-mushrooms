@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f80a5e02266a78f4570402dea2a1283c",
+    "revision": "b8242d2d23025be1d407573c5f97b784",
     "url": "/poisonous-mushrooms/index.html"
   },
   {
-    "revision": "0ec9fb6e77b8b7b9ba39",
-    "url": "/poisonous-mushrooms/static/css/main.9c84ef25.chunk.css"
+    "revision": "b4daa9154e2b1992da9b",
+    "url": "/poisonous-mushrooms/static/css/main.4a962b82.chunk.css"
   },
   {
     "revision": "8d7f68a0467e481fe4ac",
     "url": "/poisonous-mushrooms/static/js/2.8659fe71.chunk.js"
   },
   {
-    "revision": "0ec9fb6e77b8b7b9ba39",
+    "revision": "b4daa9154e2b1992da9b",
     "url": "/poisonous-mushrooms/static/js/main.bdced4f7.chunk.js"
   },
   {

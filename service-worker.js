@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/poisonous-mushrooms/precache-manifest.c1369ff40d03e9dc64e6c89893b17b33.js"
+  "/poisonous-mushrooms/precache-manifest.6c6a5f7b3d515f8b3cc72ba0bb7dc9e7.js"
 );
 
 self.addEventListener('message', (event) => {

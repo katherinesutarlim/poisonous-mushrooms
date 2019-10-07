@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/poisonous-mushrooms/static/css/main.9c84ef25.chunk.css",
+    "main.css": "/poisonous-mushrooms/static/css/main.4a962b82.chunk.css",
     "main.js": "/poisonous-mushrooms/static/js/main.bdced4f7.chunk.js",
     "main.js.map": "/poisonous-mushrooms/static/js/main.bdced4f7.chunk.js.map",
     "runtime-main.js": "/poisonous-mushrooms/static/js/runtime-main.a4e423b1.js",
@@ -8,9 +8,9 @@
     "static/js/2.8659fe71.chunk.js": "/poisonous-mushrooms/static/js/2.8659fe71.chunk.js",
     "static/js/2.8659fe71.chunk.js.map": "/poisonous-mushrooms/static/js/2.8659fe71.chunk.js.map",
     "index.html": "/poisonous-mushrooms/index.html",
-    "precache-manifest.c1369ff40d03e9dc64e6c89893b17b33.js": "/poisonous-mushrooms/precache-manifest.c1369ff40d03e9dc64e6c89893b17b33.js",
+    "precache-manifest.6c6a5f7b3d515f8b3cc72ba0bb7dc9e7.js": "/poisonous-mushrooms/precache-manifest.6c6a5f7b3d515f8b3cc72ba0bb7dc9e7.js",
     "service-worker.js": "/poisonous-mushrooms/service-worker.js",
-    "static/css/main.9c84ef25.chunk.css.map": "/poisonous-mushrooms/static/css/main.9c84ef25.chunk.css.map",
+    "static/css/main.4a962b82.chunk.css.map": "/poisonous-mushrooms/static/css/main.4a962b82.chunk.css.map",
     "static/media/agaricus_xanthodermus.jpg": "/poisonous-mushrooms/static/media/agaricus_xanthodermus.f57e5613.jpg",
     "static/media/amanita_muscaria.jpg": "/poisonous-mushrooms/static/media/amanita_muscaria.f67b5e4a.jpg",
     "static/media/amanita_phalloides.jpg": "/poisonous-mushrooms/static/media/amanita_phalloides.9295b501.jpg",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.a4e423b1.js",
     "static/js/2.8659fe71.chunk.js",
-    "static/css/main.9c84ef25.chunk.css",
+    "static/css/main.4a962b82.chunk.css",
     "static/js/main.bdced4f7.chunk.js"
   ]
 }
